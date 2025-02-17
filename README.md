@@ -99,6 +99,13 @@ To purchase **Aurelips (ALIPS)**, follow these steps:
 
 ---
 
+## Acknowledgements
+
+- **OpenZeppelin** for the contracts used for ownership management and security.
+- **PulseChain** for being the blockchain platform where this contract runs.
+
+---
+
 ## License
 
 Aurelips Token is open-source software licensed under the MIT License. You are free to use, modify, and distribute the software as long as you comply with the license terms.
