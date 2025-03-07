@@ -42,7 +42,7 @@ Aurelips is designed with the goal of creating a safe and fair environment for a
 ## Tokenomics
 
 - **Total Supply:** 1 Billion ALIPS
-- **Initial Distribution:** Fair launch or pre-sale events.
+- **Initial Distribution:** Fair launch.
 - **Decimals:** 18
 - **Blockchain:** PulseChain
 
