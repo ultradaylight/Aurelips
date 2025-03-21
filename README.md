@@ -1,7 +1,5 @@
 # Aurelips Token 
 
-# Aurelips Token on PulseChain
-
 Welcome to the official repository for **Aurelips Token** (ALIPS), a unique cryptocurrency on the **PulseChain** blockchain. Aurelips is designed to provide a secure and fair trading experience for all users, preventing malicious bot activity and ensuring a smooth token economy. With an innovative set of features, including a bot-blocking mechanism, flash minting, and a decentralized future, Aurelips is built with community success in mind.
 
 ## Table of Contents
